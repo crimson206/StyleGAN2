@@ -56,7 +56,7 @@ jobs:
 
   generateCatImagesPretrainedModel:
     resources:
-      instance-type: P4000
+      instance-type: Free-A5000
     needs:
       - cloneStyleGAN2Repo
       - getPretrainedModelCats
