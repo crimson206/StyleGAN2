@@ -10,9 +10,9 @@
 # (uncomment to activate)
 
 on:
- github:
-   branches:
-     only: main
+  github:
+    branches:
+      only: main
 
 jobs:
 
